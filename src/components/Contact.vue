@@ -48,7 +48,7 @@ const contactItems = [
   { icon: '🐙', label: 'GitHub', value: 'Daimler Fernandez', href: 'https://github.com/DAIMLEEER' },
 ];
 
-const openRoles = ['IT Systems Admin', 'Full-Stack Dev', 'Healthcare IT', 'DevOps','Tech Support'];
+const openRoles = ['IT Systems Admin', 'Tech Support', 'Full-Stack Dev', 'Healthcare IT', 'DevOps'];
 </script>
 
 <style scoped>

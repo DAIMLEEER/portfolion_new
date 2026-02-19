@@ -29,7 +29,7 @@
 </template>
 
 <script setup>
-const roles = ['IT Professional', 'Full-Stack Developer', 'System Administrator'];
+const roles = ['IT Professional','Tech Support', 'Full-Stack Developer', 'System Administrator'];
 </script>
 
 <style scoped>
